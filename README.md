@@ -1,1 +1,1 @@
-This program tokenizes C++ code. The MP4 is the short video introduction. 
+This program tokenizes C++ code. The zipped file is the short video introduction. 
